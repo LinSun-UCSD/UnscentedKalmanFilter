@@ -1,0 +1,4 @@
+updateSize = 10
+update steps 20: 13 mins
+update steps 30: 30 mins
+update steps 60: 52 mins
